@@ -34,7 +34,7 @@ The goal is to make setting up a fresh Unreal Engine Android development environ
 ## What it does
 
 Depending on the version of the script, it may install or configure components such as:
-
+* Android Studio as required by Turnkey
 * Android SDK Command-Line Tools
 * Android SDK Platform Tools
 * Android SDK Build Tools
